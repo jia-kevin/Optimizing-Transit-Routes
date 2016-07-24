@@ -1,2 +1,0 @@
-1,84760.50781250,-5512248.00000000|
-//just a test file, actual locations that you want to visit can be added in this file
