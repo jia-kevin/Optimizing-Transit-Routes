@@ -1,5 +1,0 @@
-1,4689,512240,3;2,6,11|2,4850,512251,2;1,11|3,4233,512227,1;4|4,4448,512238,1;3|5,4525,512239,2;7,9|6,4685,512114,1;1|7,4521,512108,2;5,8|8,4687,512020,2;7,9|9,4857,512001,2;5,8|11,4524,511985,2;1,2|
-
-//just a sample graph since actual data may not be released
-//graph is intended to represent a given transit system, with vertices as stops and edges as direct paths between stops (ie path will not pass through another stop)
-//assume a real transit system will have |V| > 10,000
